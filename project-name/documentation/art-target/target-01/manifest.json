@@ -1,0 +1,42 @@
+{
+  "target_id": "target-01",
+  "task_id": "gauntlet-2d-original-sprites",
+  "worker_id": "/root/sprite_visual_target",
+  "mode": "generated",
+  "status": "ready",
+  "image": {
+    "path": "target.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "pixel_format": "RGBA",
+    "sha256": "55e013af16af7927f7172cf236c500e4f278fcb6131505808371b4011385a071"
+  },
+  "prompt": {
+    "path": "prompt.txt",
+    "original_generation_prompt": "recorded verbatim"
+  },
+  "brief": "brief.md",
+  "generation": {
+    "tool": "image_gen.imagegen",
+    "provider": null,
+    "model": null,
+    "seed": null
+  },
+  "provenance_note": "Built-in image generation tool; one generation; copied unchanged from returned output. Concept input only, not Blender output.",
+  "requested_output": {
+    "aspect_ratio": null,
+    "resolution": null,
+    "transparent_background": true
+  },
+  "references": [
+    "https://en.wikipedia.org/wiki/Gauntlet_(1985_video_game)",
+    "https://store.steampowered.com/app/258970/Gauntlet_Slayer_Edition/"
+  ],
+  "previous_target_id": null,
+  "inspection": {
+    "performed": true,
+    "findings": "Eight complete subjects in requested order; readable silhouettes and faceted materials. View lower than strict overhead; final camera should be adapted. Small costume details exceed 32–48 px budget. Background alpha sampled at corners and inter-row is zero. Glow-like edges should not be reproduced in runtime atlas."
+  },
+  "unchanged_scene_features": "Target-only worker; no Blender scene changes."
+}

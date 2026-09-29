@@ -7,5 +7,9 @@ node_modules/
 # Local configuration. Commit examples only, never credentials.
 .env
 .env.*
+!.env.example
+test-results/
+playwright-report/
+.browser-verification/
 # Playwright CLI output (may contain credentials)
 .playwright-cli/

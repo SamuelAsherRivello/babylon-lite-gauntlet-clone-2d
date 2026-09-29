@@ -1,8 +1,13 @@
 schema: spec-driven
 context: |
-  Repository: project-name.
-  This repository starts as a reusable template with no application
-  implementation, product decisions, or approved technology stack.
+  Repository: babylon-lite-gauntlet-clone-2d. Title: Gauntlet — Embervault.
+  Authorized complete new public 1-4 player online cooperative 2D dungeon game.
+  Babylon Lite WebGPU, original Blender-rendered sprites, Vite, GitHub Pages.
+  Shared Colyseus server in sibling gauntlet-2d-server must be extended and released first.
+  Four instantly switchable classes; player color and number persist across switches.
+  Server-authoritative movement, combat, four enemy types, pickups, exit, failure and replay.
+  Browser and touch controls, responsive portrait play area, honest connection errors.
+  No credentials in browser code. Tests and build from repository root.
   Canonical project documentation assets live in project-name/documentation/.
   Before proposing or applying a change, record the project's verified purpose,
   runtime targets, architecture, dependency policy, security constraints, and

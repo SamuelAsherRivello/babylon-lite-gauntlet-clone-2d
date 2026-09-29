@@ -1,0 +1,80 @@
+{
+  "outputs": {
+    "demon.png": {
+      "width": 128,
+      "height": 128,
+      "alpha_channel": true
+    },
+    "elf.png": {
+      "width": 128,
+      "height": 128,
+      "alpha_channel": true
+    },
+    "floor.png": {
+      "width": 128,
+      "height": 128,
+      "alpha_channel": true
+    },
+    "food.png": {
+      "width": 128,
+      "height": 128,
+      "alpha_channel": true
+    },
+    "generator.png": {
+      "width": 128,
+      "height": 128,
+      "alpha_channel": true
+    },
+    "ghost.png": {
+      "width": 128,
+      "height": 128,
+      "alpha_channel": true
+    },
+    "grunt.png": {
+      "width": 128,
+      "height": 128,
+      "alpha_channel": true
+    },
+    "key.png": {
+      "width": 128,
+      "height": 128,
+      "alpha_channel": true
+    },
+    "sorcerer.png": {
+      "width": 128,
+      "height": 128,
+      "alpha_channel": true
+    },
+    "torch.png": {
+      "width": 128,
+      "height": 128,
+      "alpha_channel": true
+    },
+    "treasure.png": {
+      "width": 128,
+      "height": 128,
+      "alpha_channel": true
+    },
+    "valkyrie.png": {
+      "width": 128,
+      "height": 128,
+      "alpha_channel": true
+    },
+    "wall.png": {
+      "width": 128,
+      "height": 128,
+      "alpha_channel": true
+    },
+    "warrior.png": {
+      "width": 128,
+      "height": 128,
+      "alpha_channel": true
+    },
+    "wizard.png": {
+      "width": 128,
+      "height": 128,
+      "alpha_channel": true
+    }
+  },
+  "all_128_rgba": true
+}
