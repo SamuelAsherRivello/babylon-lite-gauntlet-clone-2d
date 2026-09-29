@@ -18,4 +18,3 @@ The game SHALL fit desktop and narrow mobile screens and display an actionable m
 #### Scenario: Unsupported browser
 - **WHEN** WebGPU cannot initialize
 - **THEN** a visible error explains browser requirements instead of a blank play area
-

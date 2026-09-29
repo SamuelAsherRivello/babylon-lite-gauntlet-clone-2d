@@ -18,4 +18,3 @@ The service SHALL reject invalid movement, unknown classes and client-supplied h
 #### Scenario: Invalid action
 - **WHEN** a client sends out-of-range input or another player identity
 - **THEN** no unauthorized state changes occur
-

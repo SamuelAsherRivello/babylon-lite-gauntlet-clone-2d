@@ -18,4 +18,3 @@ The game SHALL allow all four classes and duplicate choices while preserving pla
 #### Scenario: Switch class
 - **WHEN** a player switches from Warrior to Wizard during combat
 - **THEN** their abilities change but health and player color remain unchanged
-

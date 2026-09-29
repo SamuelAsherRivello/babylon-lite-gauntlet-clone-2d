@@ -18,4 +18,3 @@ The public game SHALL provide full-room retry, connection recovery, instructions
 #### Scenario: Published play
 - **WHEN** two independent browsers open the public URL
 - **THEN** both can join, move, switch and observe shared state
-
