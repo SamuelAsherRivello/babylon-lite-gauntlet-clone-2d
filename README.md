@@ -14,18 +14,11 @@ A complete **1–4 player online cooperative dungeon crawler**, inspired by clas
 
 [![Two Wizards with distinct player markers](project-name/documentation/screenshot.png)](project-name/documentation/screenshot.png)
 
-<details><summary>Mobile controls and completed expedition</summary>
-
-<img src="project-name/documentation/mobile.png" width="280" alt="Mobile game with simultaneous touch controls" />
-<img src="project-name/documentation/full-loop.png" width="620" alt="Actual browser victory and shared replay verification" />
-
 ## Table of Contents
 
 1. [Getting Started](#getting-started)
 2. [Project Details](#project-details)
 3. [Credits](#credits)
-
-</details>
 
 ## How to Play
 
